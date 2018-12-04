@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23484250463",
+    "firebase_url": "https://pokempow-12e41.firebaseio.com",
+    "project_id": "pokempow-12e41",
+    "storage_bucket": "pokempow-12e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23484250463:android:e6e0054c64d183ab",
+        "android_client_info": {
+          "package_name": "br.com.albertlopes.pokempow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23484250463-j6qhomrefp5tqisci32svdgina4gcno8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.albertlopes.pokempow",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "23484250463-jgmrvis50qr3007p1h4fkcstavsjribj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBX7ZsGPryTH2jpdt59MGTQCZpdYVoQzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23484250463-jgmrvis50qr3007p1h4fkcstavsjribj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
