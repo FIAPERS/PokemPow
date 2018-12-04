@@ -9,20 +9,25 @@
 
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        style="@style/btn_padrao"
+        android:text="Jogar"
+        />
 
     <Button
         style="@style/btn_padrao"
+        android:text="Ranking"
     />
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        style="@style/btn_padrao"
+        android:text="Sobre"
+        />
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="50dp" />
+        style="@style/btn_padrao"
+        android:text="Sair"
+
+        />
 
 
 </LinearLayout>
