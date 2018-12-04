@@ -24,7 +24,8 @@
         <activity android:name=".view.LoginActivity" />
         <activity android:name=".view.SignUpActivity" />
         <activity android:name=".view.GamePlayActivity" />
-        <activity android:name=".view.GameOverActivity"></activity>
+        <activity android:name=".view.GameOverActivity" />
+        <activity android:name=".view.AboutActivity"></activity>
     </application>
 
 </manifest>
