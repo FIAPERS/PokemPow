@@ -6,7 +6,7 @@ import retrofit2.http.*
 import br.com.albertlopes.pokempow.model.Pontuacao
 
 
-interface NotaAPI {
+interface JokenPokemonAPI {
 
     @GET("/pontuacao")
     fun buscarTodos(): Call<List<Pontuacao>>
