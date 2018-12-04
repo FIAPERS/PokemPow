@@ -28,7 +28,6 @@ class SplashActivity : AppCompatActivity() {
         } else {
             showLogin()
         }
-
     }
 
     private fun showSplashMain() {
