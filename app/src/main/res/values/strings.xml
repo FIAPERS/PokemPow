@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PokemPow</string>
     <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_about">Joken Pokémon</string>
+    <string name="version_app">Versão 1.0</string>
+    <string name="developers">© 2018 Fiapers - Albert / Daniel / Ricardo</string>
+    <string name="rights">Todos os direitos reservados</string>
 </resources>

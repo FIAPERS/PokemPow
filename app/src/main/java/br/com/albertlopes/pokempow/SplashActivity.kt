@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.View
 import android.view.animation.AnimationUtils
+import br.com.albertlopes.pokempow.view.AboutActivity
 import kotlinx.android.synthetic.main.activity_splash.*
 
 class SplashActivity : AppCompatActivity() {
@@ -49,7 +50,7 @@ class SplashActivity : AppCompatActivity() {
     }
 
     private fun showLogin() {
-        val nextScreen = Intent (this@SplashActivity, MainActivity::class.java)
+        val nextScreen = Intent (this@SplashActivity, AboutActivity::class.java)
         startActivity(nextScreen)
         finish()
     }
