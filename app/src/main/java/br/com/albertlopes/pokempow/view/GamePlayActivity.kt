@@ -94,6 +94,7 @@ class GamePlayActivity : AppCompatActivity() {
             img_p1.setColorFilter(ContextCompat.getColor(this, R.color.red), android.graphics.PorterDuff.Mode.MULTIPLY);
             vidasp1--
         }
+        
 
         if(vidasp1 == 0){
 
