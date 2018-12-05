@@ -9,25 +9,25 @@
 
 
     <Button
+        android:id="@+id/btJogar"
         style="@style/btn_padrao"
-        android:text="Jogar"
-        />
+        android:text="Jogar" />
 
     <Button
+        android:id="@+id/btRanking"
         style="@style/btn_padrao"
-        android:text="Ranking"
-    />
+        android:text="Ranking" />
 
     <Button
+        android:id="@+id/btSobre"
         style="@style/btn_padrao"
-        android:text="Sobre"
-        />
+        android:text="Sobre" />
 
     <Button
+        android:id="@+id/btSair"
         style="@style/btn_padrao"
-        android:text="Sair"
 
-        />
+        android:text="Sair" />
 
 
 </LinearLayout>
