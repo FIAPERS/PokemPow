@@ -32,15 +32,15 @@ class SplashActivity : AppCompatActivity() {
     }
 
     private fun showSplashMain() {
-        val anim = AnimationUtils.loadAnimation(this, R.anim.animacao_splash)
-        anim.reset()
-        ivMainLogo.clearAnimation()
-        ivMainLogo.startAnimation(anim)
-
-        Handler().postDelayed({
-            //showSplashFinish()
-            showLogin()
-        },TEMPO_AGUARDO_SPLASHSCREEN)
+//        val anim = AnimationUtils.loadAnimation(this, R.anim.animacao_splash)
+//        anim.reset()
+//        ivMainLogo.clearAnimation()
+//        ivMainLogo.startAnimation(anim)
+//
+//        Handler().postDelayed({
+//            //showSplashFinish()
+//            showLogin()
+//        },TEMPO_AGUARDO_SPLASHSCREEN)
     }
 
     private fun markAppAlreadyOpen(preferences: SharedPreferences) {
